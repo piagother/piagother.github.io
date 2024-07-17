@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piagother.github.io/sitemap
+Sitemap: https://piagother.github.io/app/sitemap
+Sitemap: https://piagother.github.io/assets/sitemap
+Sitemap: https://piagother.github.io/css/sitemap
+Sitemap: https://piagother.github.io/includes/sitemap
+Sitemap: https://piagother.github.io/item/sitemap
+Sitemap: https://piagother.github.io/src/sitemap
